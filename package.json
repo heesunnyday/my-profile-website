@@ -1,0 +1,13 @@
+{
+  "name": "heesun-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "염희선 영상 기획/연출자 정적 포트폴리오",
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "dev": "node scripts/server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
